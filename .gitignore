@@ -1,0 +1,7 @@
+.venv
+checkpoints
+models
+outputs
+processed
+Monologue.wav
+Monologue_speed_up.wav
